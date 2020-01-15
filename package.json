@@ -1,8 +1,8 @@
 {
-  "name": "http-conversion",
-  "version": "0.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "simple-http-adapter",
+  "version": "1.0.1",
+  "description": "Normal function, promise can be used like http function.",
+  "main": "lib",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,11 +13,14 @@
     "lib",
     "test"
   ],
+  "homepage": "https://github.com/kdPark0723/simple-http-adapter",
+  "bugs": {
+    "url": "https://github.com/kdPark0723/simple-http-adapter/issues",
+    "email": "kdpark023@gmail.com"
+  },
   "devDependencies": {
-    "cross-env": "^6.0.3",
     "eslint": "^6.8.0",
     "eslint-config-airbnb-base": "^14.0.0",
-    "eslint-plugin-import": "^2.20.0",
-    "jest": "^24.9.0"
+    "eslint-plugin-import": "^2.20.0"
   }
 }
