@@ -53,7 +53,7 @@ console.log(response);
 
 ```shell
 Response { statusCode: 200, headers: {}, body: { b: 2, c: 3, d: 4 } }
-Response { statusCode: 500, headers: undefined, body: { message: '' } }
+Response { statusCode: 500, headers: {}, body: { message: '' } }
 ```
 
 ​    
