@@ -1,6 +1,6 @@
 {
   "name": "simple-http-adapter",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "Normal function, promise can be used like http function.",
   "main": "lib",
   "scripts": {
