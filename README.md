@@ -71,7 +71,7 @@ httpAdapter.convert({ expectedMethod, successStatusCode }, func, handlers = hand
 ### Handlers
 
 ```js
-const handlers = { errorHandel, requestParamsExtract, responseMapping };
+const handlers = { errorHandler, requestParamsExtract, responseMapping };
 ```
 
 ​    
@@ -79,7 +79,7 @@ const handlers = { errorHandel, requestParamsExtract, responseMapping };
 #### Error Handel
 
 ```js
-function errorHandel(error) {}
+function errorHandler(error) {}
 ```
 
 #### Request Params Extract
